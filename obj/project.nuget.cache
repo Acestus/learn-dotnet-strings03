@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/DPHsHup2NtQSb8WICM5n/5VTRsRbxXt8QR4A3xFRBQI3XC+TfOMeev4E0sbyWxSmpa46V46AC2lmoNSd6cYOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wbalconi\\git\\learn-dotnet-strings03\\learn-dotnet-strings03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wbalconi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\wbalconi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\wbalconi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\wbalconi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
